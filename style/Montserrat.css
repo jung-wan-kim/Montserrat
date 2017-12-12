@@ -1,0 +1,107 @@
+/* 100 */
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 100;
+	src: local('Montserrat Thin'), local('Montserrat-Thin'),
+		url(../fonts/woff/Montserrat-Thin.woff2) format('woff2'), 
+		url(../fonts/eot/Montserrat-Thin.eot),
+		url(../fonts/eot/Montserrat-Thin.eot?#iefix) format('embedded-opentype'),
+		url(../fonts/woff/Montserrat-Thin.woff) format('woff');
+}
+
+/* 200 */
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 200;
+	src: local('Montserrat ExtraLight'), local('Montserrat-ExtraLight'),
+		url(../fonts/woff/Montserrat-ExtraLight.woff2) format('woff2'), 
+		url(../fonts/eot/Montserrat-ExtraLight.eot),
+		url(../fonts/eot/Montserrat-ExtraLight.eot?#iefix) format('embedded-opentype'),
+		url(../fonts/woff/Montserrat-ExtraLight.woff) format('woff');
+}
+
+/* 300 */
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 300;
+	src: local('Montserrat Light'), local('Montserrat-Light'),
+		url(../fonts/woff/Montserrat-Light.woff2) format('woff2'), 
+		url(../fonts/eot/Montserrat-Light.eot),
+		url(../fonts/eot/Montserrat-Light.eot?#iefix) format('embedded-opentype'),
+		url(../fonts/woff/Montserrat-Light.woff) format('woff');
+}
+
+/* 400 */
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Montserrat Regular'), local('Montserrat-Regular'),
+		url(../fonts/woff/Montserrat-Regular.woff2) format('woff2'), 
+		url(../fonts/eot/Montserrat-Regular.eot),
+		url(../fonts/eot/Montserrat-Regular.eot?#iefix)	format('embedded-opentype'),
+		url(../fonts/woff/Montserrat-Regular.woff) format('woff');
+}
+
+/* 500 */
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 500;
+	src: local('Montserrat Regular'), local('Montserrat-Regular'),
+		url(../fonts/woff/Montserrat-Thin.woff2) format('woff2'), 
+		url(../fonts/eot/Montserrat-Thin.eot),
+		url(../fonts/eot/Montserrat-Thin.eot?#iefix) format('embedded-opentype'),
+		url(../fonts/woff/Montserrat-Thin.woff) format('woff');
+}
+
+/* 600 */
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 600;
+	src: local('Montserrat SemiBold'), local('Montserrat-SemiBold'),
+		url(../fonts/woff/Montserrat-SemiBold.woff2) format('woff2'), 
+		url(../fonts/eot/Montserrat-SemiBold.eot),
+		url(../fonts/eot/Montserrat-SemiBold.eot?#iefix) format('embedded-opentype'),
+		url(../fonts/woff/Montserrat-SemiBold.woff) format('woff');
+}
+
+/* 700 */
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 700;
+	src: local('Montserrat Bold'), local('Montserrat-Bold'),
+		url(../fonts/eot/Montserrat-Bold.woff2) format('woff2'), 
+		url(../fonts/eot/Montserrat-Bold.eot),
+		url(../fonts/eot/Montserrat-Bold.eot?#iefix) format('embedded-opentype'),
+		url(../fonts/woff/Montserrat-Bold.woff) format('woff');
+}
+
+/* 800 */
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 800;
+	src: local('Montserrat ExtraBold'), local('Montserrat-ExtraBold'),
+		url(../fonts/woff/Montserrat-ExtraBold.woff2) format('woff2'), 
+		url(../fonts/eot/Montserrat-ExtraBold.eot),
+		url(../fonts/eot/Montserrat-ExtraBold.eot?#iefix)	format('embedded-opentype'),
+		url(../fonts/woff/Montserrat-ExtraBold.woff) format('woff');
+}
+
+/* 900 */
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 900;
+	src: local('Montserrat Black'), local('Montserrat-Black'),
+		url(../fonts/woff/Montserrat-Black.woff2) format('woff2'), 
+		url(../fonts/eot/Montserrat-Black.eot),
+		url(../fonts/eot/Montserrat-Black.eot?#iefix)	format('embedded-opentype'),
+		url(../fonts/woff/Montserrat-Black.woff) format('woff');
+}
